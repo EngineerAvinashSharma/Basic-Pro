@@ -1,0 +1,23 @@
+{
+  "name": "basic-pro",
+  "version": "1.0.0",
+  "description": "Interview Test Solution",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev" : "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wolverine1712/Basic-Pro.git"
+  },
+  "author": "Avinash Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wolverine1712/Basic-Pro/issues"
+  },
+  "homepage": "https://github.com/Wolverine1712/Basic-Pro#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
